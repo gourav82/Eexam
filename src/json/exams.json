@@ -1,0 +1,47 @@
+
+[
+    {
+        "img":"../../assets/exam4.png",
+        "exam":"Class 10th Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    },
+    {
+        "img":"../../assets/exam3.png",
+        "exam":"Class 12th Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    },
+    {
+        "img":"../../assets/exam2.png",
+        "exam":"IIT JEE Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    },
+    {
+        "img":"../../assets/exam1.png",
+        "exam":"NEET Test Series",
+         "sub": ["Biology", "Physics", "Chemestry"]
+    }
+    ,
+    {
+        "img":"../../assets/exam5.png",
+        "exam":"UPSC Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    }
+    ,
+    {
+        "img":"../../assets/exam6.png",
+        "exam":"BPSC Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    }
+    ,
+    {
+        "img":"../../assets/exam7.png",
+        "exam":"SSC Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    }
+    ,
+    {
+        "img":"../../assets/exam8.png",
+        "exam":"NDA Test Series",
+         "sub": ["Math", "Physics", "Chemestry"]
+    }
+]
