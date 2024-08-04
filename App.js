@@ -1,7 +1,5 @@
 import "react-native-gesture-handler"
-import { StatusBar } from 'expo-status-bar';
 import { Image, StyleSheet, Text, View } from 'react-native';
-import { createDrawerNavigator } from '@react-navigation/drawer';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Home from './src/componant/Home';
@@ -10,12 +8,8 @@ import Contact from "./src/componant/Contact";
 import User from "./src/componant/User";
 import Exams from "./src/componant/Exams";
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
-
-
-Exams
-User
 const Tab = createBottomTabNavigator();
-const Drawer = createDrawerNavigator();
+// const Drawer = createDrawerNavigator();
 export default function App() {
   return (
     <>
