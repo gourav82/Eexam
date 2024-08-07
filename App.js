@@ -9,20 +9,10 @@ import User from "./src/componant/User";
 import Exams from "./src/componant/Exams";
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 const Tab = createBottomTabNavigator();
-// const Drawer = createDrawerNavigator();
 export default function App() {
   return (
     <>
-        {/* <Header/> */}
 
-
-      {/* <NavigationContainer>
-        <Drawer.Navigator initialRouteName="Home">
-          <Drawer.Screen name="Home" component={Home} />
-          <Drawer.Screen name="About" component={About} />
-          <Drawer.Screen name="Contact" component={Contact} />
-        </Drawer.Navigator>
-        </NavigationContainer> */}
         <NavigationContainer>
         <Tab.Navigator>
           <Tab.Screen name="Home" component={Home} 
