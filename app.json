@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Eexam",
-    "slug": "Eexam",
+    "slug": "eexam",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,8 +26,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "97e15287-2cc1-4199-8b38-bf79642a170e"
+        "projectId": "43d783f5-f7de-455e-8de8-408d5b106020"
       }
-    }
+    },
+    "owner": "hariompremad"
   }
 }
